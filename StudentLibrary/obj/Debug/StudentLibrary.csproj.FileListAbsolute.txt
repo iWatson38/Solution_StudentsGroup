@@ -1,0 +1,9 @@
+D:\Программная инженерия (Терещенко)\Students\StudentLibrary\bin\Debug\StudentLibrary.dll
+D:\Программная инженерия (Терещенко)\Students\StudentLibrary\bin\Debug\StudentLibrary.pdb
+D:\Программная инженерия (Терещенко)\Students\StudentLibrary\bin\Debug\System.Data.SqlClient.dll
+D:\Программная инженерия (Терещенко)\Students\StudentLibrary\bin\Debug\System.Data.SqlClient.xml
+D:\Программная инженерия (Терещенко)\Students\StudentLibrary\obj\Debug\StudentLibrary.csprojAssemblyReference.cache
+D:\Программная инженерия (Терещенко)\Students\StudentLibrary\obj\Debug\StudentLibrary.csproj.CoreCompileInputs.cache
+D:\Программная инженерия (Терещенко)\Students\StudentLibrary\obj\Debug\StudentLibrary.csproj.CopyComplete
+D:\Программная инженерия (Терещенко)\Students\StudentLibrary\obj\Debug\StudentLibrary.dll
+D:\Программная инженерия (Терещенко)\Students\StudentLibrary\obj\Debug\StudentLibrary.pdb

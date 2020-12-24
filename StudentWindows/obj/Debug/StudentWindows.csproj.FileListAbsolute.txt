@@ -1,0 +1,14 @@
+D:\Программная инженерия (Терещенко)\Students\StudentWindows\obj\Debug\StudentWindows.csprojAssemblyReference.cache
+D:\Программная инженерия (Терещенко)\Students\StudentWindows\obj\Debug\StudentWindows.StudentEditForm.resources
+D:\Программная инженерия (Терещенко)\Students\StudentWindows\obj\Debug\StudentWindows.StudentForm.resources
+D:\Программная инженерия (Терещенко)\Students\StudentWindows\obj\Debug\StudentWindows.Properties.Resources.resources
+D:\Программная инженерия (Терещенко)\Students\StudentWindows\obj\Debug\StudentWindows.csproj.GenerateResource.cache
+D:\Программная инженерия (Терещенко)\Students\StudentWindows\obj\Debug\StudentWindows.csproj.CoreCompileInputs.cache
+D:\Программная инженерия (Терещенко)\Students\StudentWindows\bin\Debug\StudentWindows.exe.config
+D:\Программная инженерия (Терещенко)\Students\StudentWindows\bin\Debug\StudentWindows.exe
+D:\Программная инженерия (Терещенко)\Students\StudentWindows\bin\Debug\StudentWindows.pdb
+D:\Программная инженерия (Терещенко)\Students\StudentWindows\bin\Debug\StudentLibrary.dll
+D:\Программная инженерия (Терещенко)\Students\StudentWindows\bin\Debug\StudentLibrary.pdb
+D:\Программная инженерия (Терещенко)\Students\StudentWindows\obj\Debug\StudentWindows.csproj.CopyComplete
+D:\Программная инженерия (Терещенко)\Students\StudentWindows\obj\Debug\StudentWindows.exe
+D:\Программная инженерия (Терещенко)\Students\StudentWindows\obj\Debug\StudentWindows.pdb
